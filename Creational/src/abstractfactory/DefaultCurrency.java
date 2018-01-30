@@ -6,6 +6,6 @@ package abstractfactory;
 public class DefaultCurrency implements Currency {
     @Override
     public String getCurrency() {
-        return "Default abstractfactory.Currency";
+        return "Default Currency";
     }
 }
